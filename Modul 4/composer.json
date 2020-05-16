@@ -1,0 +1,15 @@
+{
+    "name": "rafif/carbon",
+    "description": "ini project pertama dengan composer",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Nabily rafif",
+            "email": "nabily19ti@mahasiswa.pcr.ac.id"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.32"
+    }
+}
